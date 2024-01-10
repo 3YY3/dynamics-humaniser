@@ -14,3 +14,5 @@ While in the MIDI editor, run the script and select *coeficient* value (how much
 - *Add-below* - Subtracts the channel pressure from CC1
 
 Which method you use is based on personal prefference and also type of physical controller you use (pressure pad, breath controller, etc.)
+
+In the picture demo.png you can see what will happen upon using the script. Original MIDI events are on the left side of the picture, altered events by the script are on the right.
