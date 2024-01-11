@@ -11,7 +11,7 @@ You need to have already some CC1 values present, either done by hand or generat
 While in the MIDI editor, run the script and select *coeficient* value (how much will CC1 be altered by Channel pressure values) and method:
 - *Add-subtract* - If the Channel pressure value is higher than 63, value will be added, otherwise subtracted
 - *Add-above* - Adds channel pressure on top of CC1
-- *Add-below* - Subtracts the channel pressure from CC1
+- *Add-below* - Moves CC1 value down and then add from Channel pressure value
 
 Which method you use is based on personal prefference and also type of physical controller you use (pressure pad, breath controller, etc.)
 
