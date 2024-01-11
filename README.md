@@ -16,3 +16,8 @@ While in the MIDI editor, run the script and select *coeficient* value (how much
 Which method you use is based on personal prefference and also type of physical controller you use (pressure pad, breath controller, etc.)
 
 In the picture demo.png you can see what will happen upon using the script. Original MIDI events are on the left side of the picture, altered events by the script are on the right.
+
+# Dependencies
+In order to use this script, you need to install:
+- [Scythe v3](https://jalovatt.github.io/scythe/#/)
+- [MIDI Utils](https://forum.cockos.com/showthread.php?p=2630436)
